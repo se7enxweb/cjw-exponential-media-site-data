@@ -1,0 +1,16 @@
+{
+    "name": "se7enxweb/cjw-exponential-media-site-data",
+    "description": "CJW Exponential Platform Nexus - JAC Example site installation data",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "7x",
+            "homepage": "https://se7enx.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
